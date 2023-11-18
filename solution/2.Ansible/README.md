@@ -7,7 +7,7 @@ sudo apt-get install ansible -y
 # Make hosts SSH accessible
 ```
 ssh-keygen
-ssh-copy-id node1 && ssh-copy-id node2 && ssh-copy-id node3
+ssh-copy-id node1 && ssh-copy-id node2 && ssh-copy-id node3 && ssh-copy-id node4
 ```
 
 
